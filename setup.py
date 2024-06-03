@@ -53,6 +53,8 @@ package_data = [
     'models/patterns/*/*',
 ]
 
+print(package_data)
+
 # some PyPI metadata
 classifiers = [
     'Development Status :: 3 - Beta',
