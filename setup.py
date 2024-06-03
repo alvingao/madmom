@@ -14,7 +14,7 @@ from Cython.Build import cythonize, build_ext
 from setuptools import setup, find_packages
 
 # define version
-version = '0.17.dev0_alvingao_0'
+version = '0.17.dev1'
 
 # define which extensions to compile
 include_dirs = [np.get_include()]
